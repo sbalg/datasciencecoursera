@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Empty repo for data scientist's toolbox course
+(Almost) empty repo for data scientist's toolbox course
